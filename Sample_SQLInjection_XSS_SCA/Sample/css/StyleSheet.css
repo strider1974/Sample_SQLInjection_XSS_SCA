@@ -1,0 +1,12 @@
+﻿.comment{border-right:silver 1px solid;border-top:silver 1px solid;margin-bottom:10px;border-left:silver 1px solid;border-bottom:silver 1px solid;background-color:#fff;padding:3px 10px}
+.comment .date{font-size:10px;color:#666;border-bottom:silver 1px dashed;text-align:right;margin:0;padding:3px 0}
+.comment .author{border-top:silver 1px dashed;margin:0;padding:3px 0}
+.comment .content{min-height:55px;margin:5px 5px 5px 0}
+.comment .gravatar{clear:both;float:left;margin:5px 10px 5px 0}
+.commentForm{padding:5px}
+.commentForm INPUT{width:300px}
+.commentForm LABEL{margin-top:4px;display:block;float:left;width:80px}
+.commentForm TEXTAREA{border-right:silver 1px solid;border-top:silver 1px solid;border-left:silver 1px solid;width:100%;border-bottom:silver 1px solid;height:150px}
+.button{border:1px solid blue;background:#FFFBFF;font-family:Verdana;font-size:10px;color:#284775;font-weight:700;cursor:pointer;height:19px}
+.regularText{font-family:Verdana;font-size:10px}
+.labelError{color:Red;font-weight:700;font-family:Verdana;font-size:10px}
